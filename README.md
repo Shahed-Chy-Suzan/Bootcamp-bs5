@@ -6,4 +6,4 @@ This is from [Traversy Media-YouTube tutorial](https://www.youtube.com/watch?v=4
 
 ### Website Demo
 
-https://www.frontendbootcampdemo.com/
+https://shahed-chy-suzan.github.io/Bootcamp-bs5/
